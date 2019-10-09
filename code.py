@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Mr. Coxall
+# Created by: Jacob B
 # Created on: Oct 2019
 # This program draws a background on the PyBadge
 
